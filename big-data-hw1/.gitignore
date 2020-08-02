@@ -1,0 +1,5 @@
+# ide related
+.idea
+
+# hadoop installation file
+resources/hadoop-3.2.1.tar.gz
